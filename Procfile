@@ -1,3 +1,3 @@
-worker: python3 -m saberxbot
-web: python3 -m saberxbot
+worker: python3 -m saberx
+web: python3 -m saberx
 ps:scale worker=1
