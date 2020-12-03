@@ -1,5 +1,6 @@
 future
 redis
+pyrogram
 cachetools
 emoji
 tswift
