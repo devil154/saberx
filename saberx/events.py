@@ -1,5 +1,5 @@
 from telethon import events
-from tg_bot import client
+from saberx import client
 
 
 def register(**args):
